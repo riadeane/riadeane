@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 🤗 I'm Ria
 
-<!--
-**riadeane/riadeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at UC Chile, doing a minor in Data Science.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning JS, D3.js, and React
+- 🤔 I’m interesed in Machine Learning and Information Visualization
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love to crochet! 🧶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Check out my site!](riadeane.dev)
+
+----------------------
+
+### 📚 Projects I've worked on
+
+- 🏝️ [Animal Crossing: New Horizons critter availability tool](infovis.riadeane.dev)
+- 🐶 [Supetmarket](supetmarket.pet)
+- 🪴 [Urban Garden](https://objective-meninsky-4d51fa.netlify.app/)
+
+
