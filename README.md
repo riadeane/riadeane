@@ -7,14 +7,14 @@ I'm a Software Engineering student at UC Chile, doing a minor in Data Science.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to crochet! 🧶
 
-[Check out my site!](riadeane.dev)
+[Check out my site!](https://riadeane.dev/)
 
 ----------------------
 
 ### 📚 Projects I've worked on
 
-- 🏝️ [Animal Crossing: New Horizons critter availability tool](infovis.riadeane.dev)
-- 🐶 [Supetmarket](supetmarket.pet)
+- 🏝️ [Animal Crossing: New Horizons critter availability tool](https://infovis.riadeane.dev)
+- 🐶 [Supetmarket](https://supetmarket.pet)
 - 🪴 [Urban Garden](https://objective-meninsky-4d51fa.netlify.app/)
 
 
