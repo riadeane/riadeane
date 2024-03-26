@@ -17,5 +17,5 @@ I'm a Industrial + Software Engineering student at UC Chile, doing a minor in Da
 - 🍌 Internship at [Platanus](https://platan.us/):
   - 🏦 [Supercartola](https://supercartola.cl/)
   - 🔇 [Mute](https://mute.so/#/)
-
-
+  - 📑 [QRClaim](https://qrclaim.com/)
+- Internal Software for [Sofia Jottar Banquetería](https://sofiajottar.cl/)
